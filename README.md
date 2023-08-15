@@ -16,7 +16,7 @@ Hello! I'm Marley, a passionate computer scientist with a degree in Computer Sci
 
 Feel free to connect with me and explore the exciting possibilities we can achieve together! 🌟
 
-                                ##############
+[PT-BR]                       
 
 Olá! Eu sou o Marley, um apaixonado cientista da computação com graduação em Ciência da Computação pela PUC-MG. Minha jornada começou com uma sólida base em tecnologia e, desde então, levei essa paixão e conhecimento a novos patamares.
 
