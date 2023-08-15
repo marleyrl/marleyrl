@@ -10,9 +10,7 @@ Hello! I'm Marley, a passionate computer scientist with a degree in Computer Sci
 
 👨‍💼 My professional experience includes roles as an Infrastructure Analyst and Business Systems Analyst (BSA) in Belo Horizonte.
 
-🔧 I have an insatiable curiosity for hardware and enjoy staying up-to-date with the latest releases. I find joy in assembling desktops from scratch and exploring the inner workings of technology.
-
-🚀 Currently, I'm pursuing my passion for software development. I'm diving deep into JavaScript and embarking on a transformative journey through the Development Java with Cloud AWS BootCamp. As a long-time enthusiast of infrastructure, I find this BootCamp particularly exciting as it introduces me to AWS, one of the leading cloud platforms.
+🔧 I have an curiosity for hardware and enjoy staying up-to-date with the latest releases. I find joy in assembling desktops from scratch and exploring the inner workings of technology.
 
 Feel free to connect with me and explore the exciting possibilities we can achieve together! 🌟
 
@@ -26,9 +24,7 @@ Olá! Eu sou o Marley, um apaixonado cientista da computação com graduação e
 
 👨‍💼 Minha experiência profissional inclui cargos como Analista de Infraestrutura e Analista de Sistemas de Negócios (BSA) em Belo Horizonte.
 
-🔧 Tenho uma curiosidade insaciável por hardware e gosto de me manter atualizado com os lançamentos mais recentes. Encontro alegria em montar desktops do zero e explorar o funcionamento interno da tecnologia.
-
-🚀 Atualmente, estou seguindo minha paixão pelo desenvolvimento de software. Estou mergulhando fundo no JavaScript e embarcando em uma jornada transformadora por meio do BootCamp de Desenvolvimento Java com Cloud AWS. Como entusiasta de longa data da infraestrutura, acho este BootCamp particularmente empolgante, pois me apresenta à AWS, uma das principais plataformas de nuvem.
+🔧 Tenho uma curiosidade  por hardware e gosto de me manter atualizado com os lançamentos mais recentes. Encontro alegria em montar desktops do zero e explorar o funcionamento interno da tecnologia.
 
 Sinta-se à vontade para se conectar comigo e explorar as emocionantes possibilidades que podemos alcançar juntos! 🌟
 
