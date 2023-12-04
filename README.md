@@ -61,6 +61,8 @@ Sinta-se à vontade para se conectar comigo e explorar as emocionantes possibili
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marleyrl&repo=buscaCep&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marleyrl/buscaCep)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marleyrl&repo=buscaCep&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marleyrl/previsaotempo)
+
 ## Most languages used
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marleyrl&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
